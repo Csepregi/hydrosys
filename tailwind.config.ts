@@ -7,6 +7,9 @@ export default {
       backgroundImage: {
         "history-pic": "url('/history.jpg')",
       },
+      colors: {
+        "history-bg": "hsla(0, 0%, 100%, 0.55)",
+      },
     },
   },
   plugins: [],
